@@ -37,7 +37,7 @@ The Python code for clustering and analysis is available in this repository. You
 
 - `crime_data.csv`: The crime dataset used for clustering in Problem Statement 1.
 - `EastWestAirlines.xlsx`: The airlines dataset used for clustering in Problem Statement 2.
-- `Clustering_Assignment' : The python code for both Airlines and Crime datasets.
+- `Clustering_Assignment.ipynb' : The python code for both Airlines and Crime datasets.
 
 ## Results
 
